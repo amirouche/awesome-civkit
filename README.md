@@ -21,9 +21,9 @@ softwares:
 
 Obviously the above is not enough.  In particular, it does not offer
 anything related to
-[e-governance](https://en.wikipedia.org/wiki/E-governance), in
-particular it does not provide tools to ease law making process,
-sustain production chain of food, medecine, culture, *et al*.
+[e-governance](https://en.wikipedia.org/wiki/E-governance), also it
+does not provide tools to ease law making process, sustain production
+chain of food, medecine, culture, *et al*.
 
 Among other things, it is not [bootstrappable](http://bootstrappable.org/).
 
