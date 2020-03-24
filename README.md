@@ -31,7 +31,7 @@ As is this is not ready-made solution for a sustainable civilization.
 
 ## Your solution
 
-**Document your solution here, provide a link**
+**Document your solution here, provide a link.**
 
 ## See also
 
