@@ -2,10 +2,7 @@
 
 Repository of awesome civilization kits.
 
-[![babel tower beamed by an alien
-spaceship](https://cdn.dribbble.com/users/2441249/screenshots/4890251/babeldrbl.jpg)](https://dribbble.com/shots/4890251-Babel)
-
-(artwork by [mildtravis](https://dribbble.com/mildtravis))
+[![tokamak](https://raw.githubusercontent.com/amirouche/awesome-civkit/master/tokamak.jpg)](https://en.wikipedia.org/wiki/Tokamak)
 
 ## saneciv - startup nation civilization
 
